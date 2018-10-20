@@ -9272,9 +9272,9 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-"video-slider@https://github.com/a-eid/vid-slider-cmp":
-  version "0.0.1"
-  resolved "https://github.com/a-eid/vid-slider-cmp#4378a32d33ddfce43bae61a07dfa62dd2a21903a"
+"vid-slider@https://github.com/achmun0526/videoslider":
+  version "0.0.2"
+  resolved "https://github.com/achmun0526/videoslider#82d40b8dca84baf063aec6c0f69a52c6ebe5a57a"
   dependencies:
     lodash.debounce "^4.0.8"
     lodash.range "^3.2.0"

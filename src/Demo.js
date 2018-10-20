@@ -1,8 +1,8 @@
 import React, { Component } from "react"
 import thumbnails from "./moments.json"
 
-import VideoSlider from "video-slider"
-import "video-slider/styles.css"
+import VideoSlider from "vid-slider"
+import "vid-slider/lib/styles.css"
 
 class Demo extends Component {
   state = {
